@@ -1,8 +1,64 @@
-![github](https://github.com/user-attachments/assets/9ccbe01f-e186-4f29-8af6-463e233a986b)
+# Hi, I'm Adrian Cotrim 👋
 
-![contact](https://github.com/user-attachments/assets/46919dc5-19ff-4a4b-b46f-18bdc81dc37e)
+Software Developer passionate about building desktop applications, web solutions, industrial automation systems, and AI-powered workflows.
 
-![Linkedin](https://github.com/user-attachments/assets/0070a3a9-4aab-4c8a-9052-1a286cfb2c9c) [LinkedIn](https://www.linkedin.com/in/adrian-cotrim-257964329/) | ![Gmail](https://github.com/user-attachments/assets/1be72016-05ad-4066-a2f6-723a10b08062) [E-mail](mailto:adriancotrimdosreis4@gmail.com)
+Currently working at IASTECH while pursuing a Bachelor's degree in Computer Science.
 
-![Adrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianCotrim&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCotrim&layout=compact&theme=radical)
+---
+
+## 💻 About Me
+
+- 💼 Software Developer at IASTECH
+- 🎓 Bachelor's degree in Computer Science
+- 🌱 Currently improving my React, Java and Cloud skills
+- 🤖 Interested in AI Automation, Industrial Software and Full Stack Development
+- 🌍 Open to international opportunities
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+Java • JavaScript • Python • C# • SQL • HTML • CSS
+
+### Frameworks & Libraries
+
+React • JavaFX
+
+### Databases
+
+MySQL • PostgreSQL • SQL Server • MongoDB
+
+### Tools
+
+Docker • Kubernetes • Git • Linux • Typebot • n8n • Pipedrive • Figma
+
+---
+
+## 🚀 Featured Projects
+
+### Industrial Modbus Desktop Application
+Desktop application built with JavaFX for industrial communication using the Modbus protocol.
+
+### AI Lead Qualification Chatbot
+AI-powered chatbot integrating Typebot, n8n and Pipedrive for automated lead qualification.
+
+### Facilita
+Inventory and purchasing management platform designed for small and medium-sized industries.
+
+---
+
+## 📈 GitHub Stats
+
+(Stats here)
+
+---
+
+## 🌎 Connect with Me
+
+LinkedIn:
+https://linkedin.com/in/...
+
+Email:
+...
