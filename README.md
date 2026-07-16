@@ -9,8 +9,6 @@ I have experience in backend development, frontend development and system integr
 - 🌱 Currently expanding my expertise in software automation and modern application development
 - 🌍 Open to international opportunities
 
----
-
 ## 🚀 Featured Projects
 
 ### 📦 Facilita
@@ -19,7 +17,7 @@ Inventory and purchasing management platform designed to streamline operations f
 
 🌐 **Website:** https://facilita.ind.br/
 
----
+
 
 ### 🍔 CKP Lanches
 
@@ -27,7 +25,7 @@ Web-based management system developed to optimize restaurant operations, includi
 
 **Tech Stack:** React • Java • MySQL
 
----
+
 
 ### 🤖 Lead Qualification Chatbot
 
@@ -35,14 +33,14 @@ Lead qualification system integrating **Typebot**, **n8n** and **Pipedrive** to 
 
 **Tech Stack:** Typebot • n8n • Pipedrive
 
----
+
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adriancotrim)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adriancotrim.contato@gmail.com)
 
----
+
 
 # 💻 Technologies I Work With
 
