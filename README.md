@@ -1,4 +1,4 @@
-<img width="100%" height="336" alt="NYFd64r" src="https://github.com/user-attachments/assets/ad08515b-6e72-4087-b717-3a366ba6ba5b" />
+<img width="100%" height="290" alt="NYFd64r" src="https://github.com/user-attachments/assets/ad08515b-6e72-4087-b717-3a366ba6ba5b" />
 
 # 👨‍💻 Hello, I'm Adrian!
 
