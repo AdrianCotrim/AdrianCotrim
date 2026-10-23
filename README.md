@@ -21,15 +21,15 @@ Inventory and purchasing management platform designed to streamline operations f
 
 
 
-### 🍔 CKP Lanches
+### 🤖 Hackathon IA Project
 
-Web-based management system developed to optimize restaurant operations, including order management, inventory control and business reporting.
+System developed for the IASTECH Hackathon, with the objective of extracting and structuring information found in industrial flowcharts.
 
-**Tech Stack:** React • Java • MySQL
+**Tech Stack:** Python • Pandas • PaddleOCR  
 
 
 
-### 🤖 Lead Qualification Chatbot
+### 💬 Lead Qualification Chatbot
 
 Lead qualification system integrating **Typebot**, **n8n** and **Pipedrive** to automate customer interactions and CRM workflows.
 
